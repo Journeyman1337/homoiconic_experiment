@@ -1,0 +1,5 @@
+[let [i32] my_variable 7]
+[if [== my_variable 7] [scope 
+    [return 0]
+]]
+[return 1]

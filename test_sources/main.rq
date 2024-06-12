@@ -1,0 +1,3 @@
+[function main [return_type [i32]] [body
+    [return 0]
+]]
